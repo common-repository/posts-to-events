@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+#pte_container {
+}
+
+#pte_container .pte_ul_elem {
+}
+
+#pte_container .pte_li_elem {
+}
+
+#pte_container .pte_date_elem {
+}
+
+#pte_container .pte_content {
+}
+
+#pte_container .pte_ul_elem img {
+    width: 100%;
+    height: auto;
+    margin: auto;
+}
